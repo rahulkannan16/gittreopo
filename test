@@ -4,5 +4,9 @@ hi all
 
 Dev Commit
 
+<<<<<<< HEAD
 Master commit
 
+=======
+2nd Dev commit
+>>>>>>> dev
