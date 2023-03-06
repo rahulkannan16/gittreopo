@@ -1,0 +1,12 @@
+hi all
+
+2nd commit
+
+Dev Commit
+
+<<<<<<< HEAD
+Master commit
+
+=======
+2nd Dev commit
+>>>>>>> dev
